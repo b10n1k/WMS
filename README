@@ -1,0 +1,14 @@
+A simple JSP page which provides cpu load, memory used and free hdd disk space.
+
+IDE: Netbeans 7
+Server: JBoss 6
+java: 1.6
+-----------------------
+ 
+Pages:
+index.jsp
+
+bean:
+NewBean.java
+
+
